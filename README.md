@@ -5,8 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-* Getting Started
-mysql€”õ  
+* Getting Started  
+mysql ready  
 database.yml => modify password  
 cd railsChart  
 rake db:create  

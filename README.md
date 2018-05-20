@@ -6,10 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Getting Started
-mysql€”õ
-database.yml => modify password
-cd railsChart
-rake db:create
-rake db:seed
-rails s 
-http://localhost:3000/homes
+mysql€”õ  
+database.yml => modify password  
+cd railsChart  
+rake db:create  
+rake db:seed  
+rails s  
+http://localhost:3000/homes  
